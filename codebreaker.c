@@ -25,7 +25,7 @@ int main(int argc,char **argv)
         char guess[5]; 
         char Sectret_CODE2[5];
         char guess2[5];
-        printf("No. guesses left: %i\n",i);
+        printf("No.of guesses left: %i\n",i);
         printf("Enter Your Guess: ");
         scanf("%s",guess);
 
